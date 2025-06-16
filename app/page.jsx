@@ -8,7 +8,7 @@ export default function Home() {
           RSU111 : Social Dharmacracy
         </p>
         <p className="font-bold text-white text-xs md:text-2xl my-2 xl:text-3xl">
-          {`Create by (6708767) Watanyu Onnum`}
+          {`Created by (6708767) Watanyu Onnum`}
         </p>
         <Collections />
       </div>
