@@ -42,7 +42,7 @@ const Collections = () => {
       {dataCard.map((item) => (
         <div
           key={item.id}
-          className="md:mx-[150px] lg:mx-[300px] xl:mx-[400px] 2xl:mx-[20rem] @max-3xl:mx-[20rem] mx-4 my-4 py-2 px-4 bg-gray-800 rounded-lg shadow-lg"
+          className="md:mx-[150px] lg:mx-[300px] xl:mx-[400px] 2xl:mx-[40rem] mx-4 my-4 py-2 px-4 bg-gray-800 rounded-lg shadow-lg"
         >
           <div className="mb-4 mt-2 flex items-center text-white text-lg xl:text-3xl md:text-xm 2xl:text-4xl">
             {item.username}
